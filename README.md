@@ -33,4 +33,4 @@ To run this project, you will need to install the required Python packages. You 
 ## Model Details
 - Model Type: Passive Aggressive Classifier
 - Features: The text content of the news articles is used as the input features. The text is transformed into numerical features using TF-IDF Vectorization.
-- Accuracy: The model achieves an accuracy of approximately 99.43% on the test data.
+- Accuracy: The model achieves an accuracy of approximately 99% on the test data.
